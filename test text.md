@@ -1,3 +1,9 @@
+### Header
+
+## Header 2
+
+# Header 3
+
 Where Markdown transforms underscores (_) into italics, GFM ignores underscores in words, like this:
 
 wow_great_stuff
